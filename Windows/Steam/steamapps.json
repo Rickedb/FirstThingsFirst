@@ -1,0 +1,13 @@
+{
+	"path": "G:/",
+	"games": [
+		{
+			"appid": 570,
+			"name": "Dota 2"
+		},
+		{
+			"appid":730,
+			"name":"Counter-Strike: Global Offensive"
+		}
+	]
+}
